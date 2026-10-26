@@ -1,0 +1,3 @@
+# app-ads.txt for Core Lockdown: Logic Puzzles (Google Play: com.corelockdown.game)
+# The AdMob seller line is added once the AdMob account exists, in this form:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
