@@ -1,2 +1,0 @@
-# app-ads.txt for KERNOS: Offline Logic Puzzles (Google Play: com.corelockdown.game)
-google.com, pub-3922152083312761, DIRECT, f08c47fec0942fa0
